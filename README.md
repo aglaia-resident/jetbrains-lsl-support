@@ -38,7 +38,7 @@ Download LSL.xml
 
 Go to the IDE folder of your personal folder.
 Where is this folder depends on your OS and how your IDE was installed.
-For example, on Ubuntu system, that will be something like :
+For example, on Linux systems, that will be something like :
 
 ```
 /home/aglaia/.IntelliJIdea2018.1
