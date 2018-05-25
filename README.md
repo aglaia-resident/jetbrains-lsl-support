@@ -26,7 +26,7 @@ will open in your IDE. It will give you :
 
 
 * Syntax highligh
-* Keywords and function autocompletion
+* Keywords and function autocomplete
 
 Installation
 ------------
