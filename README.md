@@ -47,7 +47,7 @@ For example, on Linux systems, that will be something like :
 Go now in the subfolder config.
 Here you may find a folder called "filetypes".
 If filetypes folder doesn't exist, create it.
-The put in this folder the LSL.xml file.
+Then put in this folder the LSL.xml file.
 
 The file should now be located at something like :
 
