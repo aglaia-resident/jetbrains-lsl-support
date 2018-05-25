@@ -1,12 +1,10 @@
 LSL support for IntelliJ and other JetBrains IDEs
 =================================================
 
-The LSL.xml file will allow the LSL (Linden Script Language) support in all IDE of the JetBrains range :
+This file will allow the LSL (Linden Script Language) support in all IDE of the JetBrains range.
 
 Supported IDEs
 --------------
-
-Ce fichier permet de supporter le langage LSL dans les IDE de la gamme Jetbrains :
 
 * IntelliJ
 * PyCharn
