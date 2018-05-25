@@ -37,7 +37,7 @@ You have to adapt it, replacing "IntelliJ" by the name of your IDE.
 Download LSL.xml
 
 Go to the IDE folder of your personal folder.
-Where is this folder depends of your OS and how your IDE was installed.
+Where is this folder depends on your OS and how your IDE was installed.
 For example, on Ubuntu system, that will be something like :
 
 ```
