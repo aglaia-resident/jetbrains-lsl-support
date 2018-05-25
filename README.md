@@ -41,7 +41,13 @@ Where is this folder depends on your OS and how your IDE was installed.
 For example, on Linux systems, that will be something like :
 
 ```
-/home/aglaia/.IntelliJIdea2018.1
+/home/Alice/.IntelliJIdea2018.1
+```
+
+On Windows, it will be something like :
+
+```
+c:\Users\Alice\.IntelliJIdea14\
 ```
 
 Go now in the subfolder config.
@@ -49,10 +55,10 @@ Here you may find a folder called "filetypes".
 If filetypes folder doesn't exist, create it.
 Then put in this folder the LSL.xml file.
 
-The file should now be located at something like :
+The file should now be located at something like (depending on your OS) :
 
 ```
-/home/aglaia/.IntelliJIdea2018.1/config/filetypes/LSL.xml
+/home/Alice/.IntelliJIdea2018.1/config/filetypes/LSL.xml
 ```
 
 If your IDE is running : restart it.
