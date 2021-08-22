@@ -36,29 +36,35 @@ You have to adapt it, replacing "IntelliJ" by the name of your IDE.
 
 Download LSL.xml
 
-Go to the IDE folder of your personal folder.
-Where is this folder depends on your OS and how your IDE was installed.
+Go to the Configuration directory of your IDE. This directory depends of your system.
+This will tell you where is this folder on your computer: https://www.jetbrains.com/help/pycharm/directories-used-by-the-ide-to-store-settings-caches-plugins-and-logs.html#config-directory
+
 For example, on Linux systems, that will be something like :
 
 ```
-/home/Alice/.IntelliJIdea2018.1
+~/.config/JetBrains/IntelliJIdea2021.2
 ```
 
 On Windows, it will be something like :
 
 ```
-c:\Users\Alice\.IntelliJIdea14\
+C:\Users\JohnS\AppData\Roaming\JetBrains\IntelliJIdea2021.2
 ```
 
-Go now in the subfolder config.
-Here you may find a folder called "filetypes".
-If filetypes folder doesn't exist, create it.
-Then put in this folder the LSL.xml file.
+On Mac, something like:
+
+```
+~/Library/Application Support/JetBrains/PyCharm2021.2
+```
+
+In this folder, you may find a folder called "filetypes".
+If the filetypes folder doesn't exist, create it.
+Then put the LSL.xml file in this folder.
 
 The file should now be located at something like (depending on your OS) :
 
 ```
-/home/Alice/.IntelliJIdea2018.1/config/filetypes/LSL.xml
+~/.config/JetBrains/IntelliJIdea2021.2/filetypes/LSL.xml
 ```
 
 If your IDE is running : restart it.
