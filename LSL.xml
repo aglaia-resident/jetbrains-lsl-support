@@ -1,10 +1,10 @@
 <filetype binary="false" description="Linden Script Language" name="LSL">
   <highlighting>
     <options>
-      <option name="LINE_COMMENT" value="#" />
+      <option name="LINE_COMMENT" value="//" />
       <option name="COMMENT_START" value="/*" />
       <option name="COMMENT_END" value="*/" />
-      <option name="HEX_PREFIX" value="" />
+      <option name="HEX_PREFIX" value="0x" />
       <option name="NUM_POSTFIXES" value="" />
       <option name="HAS_BRACES" value="true" />
       <option name="HAS_BRACKETS" value="true" />
