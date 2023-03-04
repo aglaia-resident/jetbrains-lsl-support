@@ -3,6 +3,8 @@ LSL support for IntelliJ and other JetBrains IDEs
 
 This file will allow the LSL (Linden Script Language) support in all IDE of the JetBrains range: IntelliJ, PhpStorm, PyCharm, and all other Jetbrains IDEs.
 
+This file support is based on https://github.com/Sei-Lisa/kwdb
+
 What does it provide ?
 ----------------------
 
